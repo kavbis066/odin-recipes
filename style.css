@@ -5,6 +5,12 @@
 .main-recipes{
     text-align: center;
 }
+
+.main-recipes ul li{
+    list-style: none;
+}
+
 .btn a{
     text-decoration: none;
 }
+
