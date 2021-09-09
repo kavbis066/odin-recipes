@@ -1,16 +1,26 @@
-.main-heading{
+body{
+    background: rgb(233, 230, 230);
+}
+
+.main-container{
     text-align: center;
 }
 
-.main-recipes{
-    text-align: center;
+.main-recipes a{
+    text-decoration: none;
+    cursor: pointer;
 }
 
 .main-recipes ul li{
     list-style: none;
 }
 
+.mainpage-img{
+    height: 300px;
+    width: 300px;
+}
 .btn a{
     text-decoration: none;
+    cursor: pointer;
 }
 
